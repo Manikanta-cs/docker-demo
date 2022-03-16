@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "express": "*",
-    "http-errors": "^1.7.0",
-    "mysql": "^2.10.2"
+    "http-errors": "*",
+    "mysql": "*"
   },
   "devDependencies": {
-    "inherits": "^2.0.3",
-    "mocha": "^5.2.0",
-    "ms": "^2.1.1"
+    "inherits": "*",
+    "mocha": "*",
+    "ms": "*"
   }
 }
